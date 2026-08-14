@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+<path d="M60 10 105 32v56L60 110 15 88V32Z" fill="#11111a" stroke="#e04263" stroke-width="5"/>
+<path d="M29 39h62v43H29Z" fill="#f5f4f8"/><path d="M24 32 60 17l36 15-36 15Z" fill="#8e1534"/>
+<text x="60" y="67" text-anchor="middle" font-size="24" font-family="Arial,Helvetica,sans-serif" font-weight="900" fill="#16131c">SHIRO</text>
+<path d="M40 77h40" stroke="#e04263" stroke-width="4" stroke-linecap="round"/>
+</svg>
