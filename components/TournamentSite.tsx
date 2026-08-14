@@ -303,7 +303,13 @@ export function TournamentSite() {
         <div className="accurate-copy">
           <div className="accurate-eyebrow"><span /> PRIMERA EDICIÓN</div>
           <h1>Torneo<br /><em>CamiCup</em></h1>
-          <p>Primera edición oficial de la competencia.</p>
+         <p>
+  Primera edición oficial de la competencia.
+  <br />
+  <span style={{ fontSize: "0.82em", opacity: 0.75 }}>
+    Organizado por <strong>Spektra68</strong> y <strong>Dylan</strong>
+  </span>
+</p>
           <div className="accurate-actions">
             <a className="primary" href="#partidas">Ver enfrentamientos</a>
             <a className="secondary" href="#reglas">Conocer las reglas <span>→</span></a>
